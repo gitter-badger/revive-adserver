@@ -27,12 +27,6 @@ class MDB2_Connect_Test
 
     }
     // }}}
-    // {{{ PHP4 constructor..
-    function MDB2_Connect_Test()
-    {
-        $this->__construct($connect);
-    }
-    // }}}
     // {{{ connect
     function connect()
     {
